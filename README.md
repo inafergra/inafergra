@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ignacio, a physicist working in scientific software development. My interests include quantum computing (in particular quantum machine learning), as well as classical ML and AI. More broadly, I enjoy bringing novel research ideas to software (example [below](#qng_example)).
+I'm Ignacio, a physicist working in scientific software development. My interests include quantum computing (in particular quantum machine learning), as well as classical ML and AI. More broadly, I enjoy bringing novel research ideas to software.
 
 I currently work at [Pasqal](https://www.pasqal.com/), where I spend most of my time developing software for novel quantum machine learning algorithms. 
 
@@ -10,7 +10,7 @@ During my time at Pasqal I've helped develop different projects, usually impleme
 
 Some of the open source projects I regularly contribute to are [Qadence](https://github.com/pasqal-io/qadence), a python SDK for neutral atom quantum computing, and its extension package [Qadence-libs](https://github.com/pasqal-io/qadence-libs).
 
-<a id="qng_example"></a> A good example of the kind of work I enjoy the most is my [PyTorch implementation](https://github.com/pasqal-io/qadence-libs/blob/main/qadence_libs/qinfo_tools/qng.py) of the Quantum Natural Gradient, a second-order gradient-based optimizer tailored for variational quantum algorithms.
+A good example of the kind of work I enjoy the most is my [PyTorch implementation](https://github.com/pasqal-io/qadence-libs/blob/main/qadence_libs/qinfo_tools/qng.py) of the Quantum Natural Gradient, a second-order gradient-based optimizer tailored for variational quantum algorithms.
 
 
 ### Want to know more?
