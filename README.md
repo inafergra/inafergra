@@ -10,7 +10,7 @@ During my time at Pasqal I've contributed to different projects, usually impleme
 
 Some of the open source projects I regularly contribute to are [Qadence](https://github.com/pasqal-io/qadence), a python SDK for neutral atom quantum computing, and its extension package [Qadence-libs](https://github.com/pasqal-io/qadence-libs).
 
-A good example of the kind of work I enjoy the most is my [PyTorch implementation](https://github.com/pasqal-io/qadence-libs/blob/main/qadence_libs/qinfo_tools/qng.py) of the Quantum Natural Gradient, a second-order gradient-based optimizer tailored for variational quantum algorithms.
+A good example of the kind of work I enjoy the most is my [PyTorch implementation](https://github.com/pasqal-io/qadence-libs/blob/main/qadence_libs/qinfo_tools) of the Quantum Natural Gradient, a second-order gradient-based optimizer tailored for variational quantum algorithms.
 
 
 ### Want to know more?
