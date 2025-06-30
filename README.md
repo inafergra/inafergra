@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ignacio, a physicist working in scientific software development. My interests include quantum computing (in particular quantum machine learning), as well as classical ML and AI.
+I'm Ignacio, a physicist working in scientific software development. My interests include quantum computing and quantum algorithms, as well as classical ML and AI.
 
 I currently work at [Pasqal](https://www.pasqal.com/), where I spend most of my time developing software for novel quantum machine learning algorithms. 
 
